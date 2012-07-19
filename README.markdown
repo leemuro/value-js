@@ -6,7 +6,7 @@ value.js is an attempt at creating strict, immutable value objects in JavaScript
 disclaimer
 =======
 
-I am not a javascript or node expert.  This is likely a very naive and greasy solution and may likely cause javascript and node purists to nerdrage.  Please contribute!
+I am not a javascript or node expert.  This is likely a very naive and greasy solution and may likely cause javascript and node purists to nerdrage.  In specific, the equality algorithm is likely naive and broken in edge cases.  Please contribute!
 
 basic usage
 =======

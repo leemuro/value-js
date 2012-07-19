@@ -52,7 +52,6 @@ var bob = new Person({firstName: "Bob"}); // thows a TypeError!
 ````
 
 custom properties
-
 ========
 
 Value objects allow for simple calculated properties.  You should not abuse this to make your value objects do anything complex!

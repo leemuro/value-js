@@ -69,3 +69,8 @@ var john = new Person({firstName: "John", lastName: "Smith"});
 // john.fullName == "John Smith";
 
 ````
+
+equality
+=======
+
+Values objects are considered equal if all their types and attribute values are equal. See the tests for specific example.

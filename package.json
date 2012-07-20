@@ -1,0 +1,21 @@
+{
+  "author": "Lee Muro <lee@leemuro.com> (http://github.com/leemuro)",
+  "name": "value-js",
+  "description": "Strict, immutable value objects in JavaScript",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leemuro/value-js.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": ">=1.0.3"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "author": "Lee Muro <lee@leemuro.com> (http://github.com/leemuro)",
+  "author": "Lee Muro <lee@leemuro.com> (https://github.com/leemuro)",
   "name": "value-js",
   "description": "Strict, immutable value objects in JavaScript",
   "version": "1.0.0",
